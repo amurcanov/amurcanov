@@ -1,8 +1,6 @@
 <h1 align="center">amurcanov
   
   AI-assisted developer</h1>
-<p align="center">
-<img width="192" height="192" alt="ic_launcher" src="https://github.com/user-attachments/assets/d92f398d-d4ab-4ead-9eed-fd82c73ae3a4" />
 </p>
 <p align="center">
   Мой подход сочетает фундаментальные знания архитектуры, языков и компиляторов с мастерским использованием LLM для ускорения разработки и решения сложнейших задач. Симбиоз «старой школы» кодинга и возможностей нейросетей нового поколения для создания сверхэффективных решений.
