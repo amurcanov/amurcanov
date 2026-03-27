@@ -34,7 +34,7 @@
 <p align="center">
   <!-- 4. Среды разработки и Редакторы -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,eclipse,vim,neovim&perline=10" height="50" />
+    <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,eclipse,vim,neovim&perline=10" height="50" /><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity-color.svg" width="45" height="45" alt="antigravity" />
   </a>
 </p>
 
@@ -64,8 +64,6 @@
   <!-- Qwen -->
   <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/qwen-color.svg" width="45" height="45" alt="qwen" />
   <img width="16" />
-  <!-- Antigravity -->
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity-color.svg" width="45" height="45" alt="antigravity" />
 </p>
 
 ###
