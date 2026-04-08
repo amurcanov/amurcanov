@@ -71,5 +71,6 @@
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=amurcanov&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
-
-**Мой друг с интересными проектами:** [AvenCores](https://github.com/AvenCores)
+<h1 align="center">
+**Мой друг с интересными проектами:** [AvenCores](https://github.com/AvenCores)</h1>
+</p>
