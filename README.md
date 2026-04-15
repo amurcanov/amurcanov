@@ -10,75 +10,38 @@
 
 <h3 align="center">Непосредственный опыт работы с:</h3>
 
-<!-- Языки -->
-<table align="center" style="border-collapse: separate; border-spacing: 8px; background-color: #1e1e1e; border-radius: 12px; padding: 8px 16px;">
-  <tr>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="cpp" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="rust" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="go" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="java" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40" alt="kotlin" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="python" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="typescript" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="javascript" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="html" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" /></td>
-  </tr>
-</table>
+<p align="center">
+  <!-- 1. Языки (Core & Web) -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,rust,go,java,kotlin,py,ts,js,html,css&perline=10" height="50" />
+  </a>
+</p>
 
-<!-- Фреймворки и библиотеки -->
-<table align="center" style="border-collapse: separate; border-spacing: 8px; background-color: #1e1e1e; border-radius: 12px; padding: 8px 16px; margin-top: 12px;">
-  <tr>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="react" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=vue" width="40" height="40" alt="vue" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="tailwind" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="pytorch" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=qt" width="40" height="40" alt="qt" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=selenium" width="40" height="40" alt="selenium" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=npm" width="40" height="40" alt="npm" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="nodejs" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=maven" width="40" height="40" alt="maven" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=cmake" width="40" height="40" alt="cmake" /></td>
-  </tr>
-</table>
+<p align="center">
+  <!-- 2. Фреймворки, Библиотеки и Сборка -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vue,tailwind,pytorch,qt,selenium,npm,nodejs,maven,cmake&perline=10" height="50" />
+  </a>
+</p>
 
-<!-- Инфраструктура и БД -->
-<table align="center" style="border-collapse: separate; border-spacing: 8px; background-color: #1e1e1e; border-radius: 12px; padding: 8px 16px; margin-top: 12px;">
-  <tr>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="githubactions" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="nginx" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" alt="gcp" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=cloudflare" width="40" height="40" alt="cloudflare" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="mysql" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="redis" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="bash" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=md" width="40" height="40" alt="markdown" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=latex" width="40" height="40" alt="latex" /></td>
-  </tr>
-</table>
+<p align="center">
+  <!-- 3. Инфраструктура, Облака, CI/CD и БД -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=githubactions,nginx,gcp,cloudflare,mysql,redis,bash,md,latex&perline=10" height="50" />
+  </a>
+</p>
 
-<!-- IDE и редакторы + Antigravity -->
-<table align="center" style="border-collapse: separate; border-spacing: 8px; background-color: #1e1e1e; border-radius: 12px; padding: 8px 16px; margin-top: 12px;">
-  <tr>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=idea" width="40" height="40" alt="idea" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40" alt="androidstudio" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="vscode" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=eclipse" width="40" height="40" alt="eclipse" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=vim" width="40" height="40" alt="vim" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=neovim" width="40" height="40" alt="neovim" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity-color.svg" width="40" height="40" alt="antigravity" /></td>
-  </tr>
-</table>
+<p align="center">
+  <!-- 4. Среды разработки и Редакторы -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,eclipse,vim,neovim&perline=10" height="50" /><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity-color.svg" width="45" height="45" alt="antigravity" />
+  </a>
+</p>
 
-<!-- ОС -->
-<table align="center" style="border-collapse: separate; border-spacing: 8px; background-color: #1e1e1e; border-radius: 12px; padding: 8px 16px; margin-top: 12px;">
-  <tr>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=windows" width="40" height="40" alt="windows" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="linux" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://skillicons.dev/icons?i=debian" width="40" height="40" alt="debian" /></td>
-    <td align="center" bgcolor="#2d2d2d" style="border-radius: 8px; padding: 6px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="android" /></td>
-  </tr>
-</table>
+<p align="center">
+  <!-- 5. Операционные системы -->
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows,linux,debian" height="50" alt="os" /></a><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="42" alt="android" />
+</p>
 
 <h3 align="center">Богатейший опыт взаимодействия с AI-моделями:</h3>
 
