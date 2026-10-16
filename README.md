@@ -63,6 +63,6 @@
 
 <p align="center">
   <strong>Мои друзья с интересными проектами:</strong>
-  <a href="https://github.com/AvenCores">AvenCores</a>,
-  <a href="https://github.com/GAME-OVER-op/ZDT-D">GAME-OVER-op</a>
+  <a href="https://gitlab.com/avencores">AvenCores</a>,
+  <a href="https://github.com/GAME-OVER-op">GAME-OVER-op</a>
 </p>
